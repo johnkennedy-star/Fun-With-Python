@@ -1,3 +1,5 @@
+
+##This is a simple Guesss a number game
 import random
 
 nm = random.randint(1,10)
